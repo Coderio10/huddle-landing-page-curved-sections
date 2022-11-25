@@ -162,9 +162,10 @@ section .bg_mobile1{
 .sec-6{
     text-align: center;
     margin: 100px;
+}
+.sec-6 h2{
     padding: 30px;
 }
-
 /* footer */
 footer{
     background-color: var(--VeryDarkCyan);
