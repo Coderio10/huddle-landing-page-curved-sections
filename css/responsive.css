@@ -44,9 +44,12 @@
         padding: 5% 5%;
     }
     header img{
-        width: 170px;
+        width: 55%;
         height: 30px;
         margin-top: 3px;
+    }
+    header img{
+        width: 40%;
     }
     /* section button */
     section button{
