@@ -166,5 +166,7 @@
     header button{
         width: 40%;
         font-size: 13px;
+         padding: 10px 20px;
+        font-weight: 500;
     }
 }    
