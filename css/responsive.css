@@ -44,14 +44,11 @@
         padding: 5% 5%;
     }
     header img{
-        width: 55%;
+        width: 170px;
         height: 30px;
         margin-top: 3px;
     }
-    header img{
-        width: 40%;
-    }
-    /* section button */
+     /* section button */
     section button{
         width: 70%;
         margin: 20px auto;
@@ -159,3 +156,15 @@
         
     }
 }
+@media (max-width: 375px){
+    /*    header  */
+    header img{
+        width: 55%;
+        height: 30px;
+        margin-top: 3px;
+    }
+    header button{
+        width: 40%;
+        font-size: 13px;
+    }
+}    
